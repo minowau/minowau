@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **any Data-analysis Projects**
 
-- 📫 How to reach me **jupalliprabhas@gmail.com**
+- 📫 How to reach me **sohanreddy@gmail.com**
 
 - ⚡ Fun fact **Nothing is funny than I am getting a Donation..😂**
 
