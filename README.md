@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jupalli Prabhas</h1>
+<h1 align="center">Hi 👋, I'm Sohan Reddy</h1>
 <h3 align="center">Just a Student..😘</h3>
 
 
