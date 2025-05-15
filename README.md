@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sohan Reddy</h1>
+<h1 align="center">Hi 👋, Prabhas Jupalli</h1>
 <h3 align="center">Just a Student..😘</h3>
-<h3 align="center">Just a Student..😘</h3>
-
-
 
 
 - 🔭 I’m currently working on **Maina**
@@ -13,7 +10,7 @@
 
 - 💬 Ask me about **any Data-analysis Projects**
 
-- 📫 How to reach me **sohanreddy@gmail.com**
+- 📫 How to reach me **prabhasjupalli@gmail.com**
 
 - ⚡ Fun fact **Nothing is funny than I am getting a Donation..😂**
 
