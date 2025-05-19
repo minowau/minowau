@@ -53,16 +53,18 @@
 
 ---
 
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/jaswant prabhas jupalli" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://stackoverflow.com/users/jaswant prabhas jupalli" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&style=for-the-badge" /></a>
-  <a href="https://instagram.com/_.prabhas._pvt" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" /></a>
-  <a href="https://www.leetcode.com/jupalliprabhas" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaswant-prabhas-jupalli-75732b280/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://instagram.com/_.prabhas._pvt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" />
+  </a>
+  <a href="https://www.leetcode.com/jupalliprabhas" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" />
+  </a>
 </p>
 
----
 
 ### ☕ Support My Journey
 
