@@ -1,35 +1,72 @@
-<h1 align="center">Hi 👋, Prabhas Jupalli</h1>
-<h3 align="center">Just a Student..😘</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhas+Jupalli;Full-stack+%2F+ML+Developer;Gamifying+My+Dev+Journey!">
+</h1>
 
-
-- 🔭 I’m currently working on **Maina**
-
-- 🌱 I’m currently learning **Mastering Whole of Full stack, Want to develop Robust Machine learning Projects..🤞**
-
-- 👯 I’m looking to collaborate on **Full stack projects**
-
-- 💬 Ask me about **any Data-analysis Projects**
-
-- 📫 How to reach me **prabhasjupalli@gmail.com**
-
-- ⚡ Fun fact **Nothing is funny than I am getting a Donation..😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jaswant prabhas jupalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaswant prabhas jupalli" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jaswant prabhas jupalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jaswant prabhas jupalli" height="30" width="40" /></a>
-<a href="https://instagram.com/_.prabhas._pvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.prabhas._pvt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jupalliprabhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jupalliprabhas" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jupalliprabhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jupalliprabhas" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235328541-776b7d44-999b-4f9e-8b82-27d2bfa36f7a.gif" width="100%" />
+</p>
 
-<h3 align="left">Support:</h3>
-<br><p><a href="https://www.buymeacoffee.com/jupalliprav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jupalliprav" /></a></p><be><be></be>
- 
+---
+
+### 🗂️ Repository Stats
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=minowau&theme=tokyonight&no-frame=true&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=minowau&color=blueviolet&style=flat-square)
+
+---
+
+### 📊 GitHub Stats & Language Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minowau&show_icons=true&theme=tokyonight&hide_rank=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minowau&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minowau&theme=highcontrast" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧠 Commit Heatmap
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minowau&theme=tokyo-night&hide_border=true)](https://github.com/minowau)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minowau&" alt="minowau" /></p>
+
+
+
+### 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,express,mongodb,flutter,docker,git,figma,tailwind,ps,ai,androidstudio,tensorflow,pytorch,scikit-learn,seaborn" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/jaswant prabhas jupalli" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://stackoverflow.com/users/jaswant prabhas jupalli" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&style=for-the-badge" /></a>
+  <a href="https://instagram.com/_.prabhas._pvt" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" /></a>
+  <a href="https://www.leetcode.com/jupalliprabhas" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" /></a>
+</p>
+
+---
+
+### ☕ Support My Journey
+
+<a href="https://www.buymeacoffee.com/jupalliprav">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
 
