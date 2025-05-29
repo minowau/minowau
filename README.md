@@ -48,7 +48,7 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,express,mongodb,flutter,docker,git,figma,tailwind,ps,ai,androidstudio,tensorflow,pytorch,scikit-learn,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,mongodb,flutter,docker,git,figma,tailwind,tensorflow,pytorch" />
 </p>
 
 ---
