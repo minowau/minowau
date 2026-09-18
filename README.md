@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhas+Jupalli;Full-stack+%2F+ML+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Choda+Lahari;Full-stack+%2F+ML+Developer">
 </h1>
 
 <p align="center">
@@ -65,10 +65,4 @@
   </a>
 </p>
 
-
-### ☕ Support My Journey
-
-<a href="https://www.buymeacoffee.com/jupalliprav">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
 
